@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
+  - text: 首页
+    url: /
+  - text: 关于
+    url: "#about"
   - text: Menu Three
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
